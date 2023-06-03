@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PauseMenuScreen
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PauseMenuScreen\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PauseMenuScreen()
+comment2.params=mapWorld\ trofeoScreen
+comment2.target=void\ prepare(greenfoot.World,\ TrofeosMenuScreen)
+numComments=3

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LanzaTrophy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LanzaTrophy\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lista
+comment1.target=LanzaTrophy(TrophyCollector)
+numComments=2

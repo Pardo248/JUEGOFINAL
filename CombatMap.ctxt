@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CombatMap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CombatMap\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ z
+comment1.target=CombatMap(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CombatMap.\r\n\ \r\n
+comment2.params=trofeos\ enemy\ currentMap\ callingMob\ records
+comment2.target=void\ Prepare(int,\ int,\ greenfoot.World,\ Mob,\ Records)
+numComments=3

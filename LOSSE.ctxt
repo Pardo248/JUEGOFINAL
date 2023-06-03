@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LOSSE
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LOSSE\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y\ z
+comment1.target=LOSSE(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LOSSE.\r\n\ \r\n
+comment2.params=score\ currentWorld
+comment2.target=void\ PrintScore(float,\ greenfoot.World)
+numComments=3

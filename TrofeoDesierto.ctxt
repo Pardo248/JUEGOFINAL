@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TrofeoDesierto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TrofeoDesierto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=pauseWorld\ lista
+comment1.target=TrofeoDesierto(PauseMenuScreen,\ TrophyCollector)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=link
+comment3.target=boolean\ isTrophyActive(Trophy)
+numComments=4
